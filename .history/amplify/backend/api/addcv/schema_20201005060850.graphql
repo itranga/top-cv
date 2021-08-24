@@ -1,0 +1,8 @@
+type Todo @model {
+  id: ID!
+  gname: String!
+  gemail: String!
+  gphone: String!
+  gselect: String!
+  gdocpicker: String!
+}
